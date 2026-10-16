@@ -1,0 +1,13 @@
+{
+  "interval_seconds": 120,
+  "delay_between_keywords": 3,
+  "price_rate": null,
+  "watches": [
+    {
+      "keyword": "桜井 琥一"
+    },
+    {
+      "keyword": "榎本 峰雄"
+    }
+  ]
+}

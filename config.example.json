@@ -1,0 +1,10 @@
+{
+  "interval_seconds": 120,
+  "delay_between_keywords": 3,
+  "price_rate": null,
+
+  "watches": [
+    { "keyword": "ポケモンカード 151", "price_max": 5000 },
+    { "keyword": "Nintendo Switch 有機EL", "exclude": "ジャンク 箱のみ", "price_min": 20000, "price_max": 35000 }
+  ]
+}

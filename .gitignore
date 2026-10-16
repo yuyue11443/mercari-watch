@@ -1,0 +1,5 @@
+watch.log*
+seen.tmp
+__pycache__/
+*.lnk
+.env
